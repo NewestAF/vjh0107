@@ -1,9 +1,9 @@
 # R8
-<img width="917" alt="Screen Shot 2021-02-16 at 2 07 48 PM" src="https://user-images.githubusercontent.com/66157320/108020755-66df1780-7060-11eb-907a-edeeae3265d4.png">
-
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vjh0107&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vjh0107&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<img width="917" alt="Screen Shot 2021-02-16 at 2 07 48 PM" src="https://user-images.githubusercontent.com/66157320/108020755-66df1780-7060-11eb-907a-edeeae3265d4.png">
+
 
 
 
