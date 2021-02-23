@@ -1,5 +1,5 @@
 # R8
-![Barcode (2)](https://user-images.githubusercontent.com/66157320/108866952-0b9cbe80-7638-11eb-9ddf-97d655e500ff.png)
+![Barcode (3)](https://user-images.githubusercontent.com/66157320/108867645-c0cf7680-7638-11eb-9ed8-4716ae9d0463.png)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vjh0107)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vjh0107)](https://github.com/anuraghazra/github-readme-stats)
