@@ -11,6 +11,8 @@
 
 ## Like
 
+object-oriented programming
+
 ## Hate
 
-Roh
+Roh and Javascript
