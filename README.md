@@ -9,8 +9,8 @@
 
 ## Like
 
-object-oriented programming
+Roh and object-oriented programming
 
 ## Hate
 
-Roh and Javascript
+Javascript
