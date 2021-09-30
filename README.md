@@ -5,7 +5,7 @@
 
 
 ## Tech stack
-![]https://img.shields.io/badge/-Kotlin-FF7F00?style=flat&logo=Kotlin
+![https://img.shields.io/badge/-Kotlin-FF7F00?style=flat&logo=Kotlin]
 
 ## Like
 
