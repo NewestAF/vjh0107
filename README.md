@@ -9,7 +9,7 @@
 
 ## Like
 
-Roh and object-oriented programming
+RMH and object-oriented programming
 
 ## Hate
 
