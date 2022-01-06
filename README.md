@@ -1,3 +1,6 @@
 # Junhyung Park
 
+##Tech Stack
+Java, Kotlin, Python, C#
+
 - All of my projects are private, I'm so sad that you can't see something about me or my codes
