@@ -1,6 +1,6 @@
 # 👋 Hello!
 ## Junhyung Park
-- marusche boxster
+- marusche taycan
 
 ### Tech Stack
 Java, Kotlin, Python
