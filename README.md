@@ -1,6 +1,6 @@
 # 👋 Hello!
 ## Junhyung Park
-- marusche Taycan
+- swag
 
 ### Tech Stack
 Java, Kotlin, Python
