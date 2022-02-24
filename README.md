@@ -1,6 +1,6 @@
 # 👋 Hello!
 ## Junhyung Park
-- swag
+- 🎂 2004-01-07
 
 ### Tech Stack
 Java, Kotlin, Python
